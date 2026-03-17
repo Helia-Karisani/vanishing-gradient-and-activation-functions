@@ -1,6 +1,6 @@
 # Neural Network — Activation Functions & Vanishing Gradient
 
-![Header](header.png)
+
 
 This project demonstrates how different activation functions affect learning, with a focus on the **vanishing gradient problem**.
 
