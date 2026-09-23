@@ -1,4 +1,4 @@
-# Neural Network — Activation Functions & Vanishing Gradient
+# Neural Network, Activation Functions & Vanishing Gradient
 
 
 
