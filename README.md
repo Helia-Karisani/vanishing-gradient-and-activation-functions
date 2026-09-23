@@ -130,4 +130,3 @@ This project highlights:
 - How gradients behave in different functions  
 - The root cause of the vanishing gradient problem  
 
-A concise visual explanation of a key challenge in deep learning.
